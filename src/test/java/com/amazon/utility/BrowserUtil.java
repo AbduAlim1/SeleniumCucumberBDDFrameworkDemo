@@ -1,4 +1,4 @@
-package com.amazon.utility.Config;
+package com.amazon.utility;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;

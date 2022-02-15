@@ -2,7 +2,7 @@ package com.amazon.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import static com.amazon.utility.Config.BrowserUtil.*;
+import static com.amazon.utility.BrowserUtil.*;
 
 public class ItemDisplayPage extends BasePage {
 

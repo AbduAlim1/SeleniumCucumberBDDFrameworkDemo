@@ -1,4 +1,4 @@
-package com.amazon.utility.Config;
+package com.amazon.utility;
 
 import java.io.FileInputStream;
 import java.io.InputStream;

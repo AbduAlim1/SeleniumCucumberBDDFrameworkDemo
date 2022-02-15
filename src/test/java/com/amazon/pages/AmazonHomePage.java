@@ -1,8 +1,8 @@
 package com.amazon.pages;
 
-import static com.amazon.utility.Config.BrowserUtil.*;
-import com.amazon.utility.Config.ConfigReader;
-import com.amazon.utility.Config.Driver;
+import static com.amazon.utility.BrowserUtil.*;
+import com.amazon.utility.ConfigReader;
+import com.amazon.utility.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

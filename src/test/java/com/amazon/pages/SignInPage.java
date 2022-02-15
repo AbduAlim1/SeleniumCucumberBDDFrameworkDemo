@@ -1,9 +1,9 @@
 package com.amazon.pages;
 
-import com.amazon.utility.Config.Driver;
+import com.amazon.utility.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import static com.amazon.utility.Config.BrowserUtil.*;
+import static com.amazon.utility.BrowserUtil.*;
 
 public class SignInPage extends BasePage{
 

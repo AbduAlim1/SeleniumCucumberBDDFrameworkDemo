@@ -1,4 +1,4 @@
-package com.amazon.utility.Config;
+package com.amazon.utility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

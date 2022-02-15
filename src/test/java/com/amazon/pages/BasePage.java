@@ -1,6 +1,6 @@
 package com.amazon.pages;
 
-import com.amazon.utility.Config.Driver;
+import com.amazon.utility.Driver;
 import org.openqa.selenium.support.PageFactory;
 
 public abstract class BasePage {

@@ -1,6 +1,6 @@
 package com.amazon.step_definitions;
 
-import com.amazon.utility.Config.Driver;
+import com.amazon.utility.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
