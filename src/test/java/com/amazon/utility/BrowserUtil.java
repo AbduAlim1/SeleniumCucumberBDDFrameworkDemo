@@ -25,4 +25,12 @@ public class BrowserUtil {
         return wait.until(ExpectedConditions.visibilityOf(element)).getText();
     }
 
+    /**
+     * waits for the webElement to load
+     * @param element
+     */
+    public static void waitForWebElementToBeVisible(WebElement element){
+        wait.until(ExpectedConditions.visibilityOf(element));
+    }
+
 }

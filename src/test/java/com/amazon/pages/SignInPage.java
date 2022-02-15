@@ -29,6 +29,7 @@ public class SignInPage extends BasePage{
      * @return PageTitle as String
      */
     public String getSignInPageTitle(){
+        waitForWebElementToBeVisible(continueBtn);
         return Driver.getDriver().getTitle();
     }
 
